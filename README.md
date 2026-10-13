@@ -33,7 +33,7 @@ Local Storage
 **Prerequisites**
 Make sure you have Node.js and npm installed on your computer.
 
-### Installation
+## Installation
 1. Clone the repository
 git clone https://github.com/nijhum0101/applytrack.git
 2. Navigate to the project folder
@@ -44,16 +44,17 @@ npm install
 npm run dev
 5. Open the local URL shown in your terminal to view the application.
 
-**📸 Screenshots**
+## 📸 Screenshots
+
 Screenshots of the application will be added here.
+<img width="1919" height="894" alt="{280C4C77-65CB-4E08-A630-B28419AA7AE5}" src="https://github.com/user-attachments/assets/ffcb6e8d-06e8-4c05-aea0-3beaf7ff14ce" />
+<img width="1913" height="913" alt="{028988B6-C714-4B1B-8558-6344810ACE63}" src="https://github.com/user-attachments/assets/af15d5ad-edc9-4bd2-91bb-478f081b8c8e" />
 
-**🌐 Live Demo**
-Coming soon.
 
-**📚 What I'm Learning**
+## 📚 What I'm Learning
 Through this project, I'm developing my skills in React, JavaScript, component-based development, state management, CRUD operations, browser storage, and Git version control.
 
-**🔮 Future Improvements**
+## 🔮 Future Improvements
 
 Add application deadline reminders
 Improve form validation and error handling
@@ -61,7 +62,7 @@ Add automated tests
 Explore cloud storage and user authentication
 Enhance the user experience and responsive design
 
-👩‍💻 Author
+**👩‍💻 Author**
 Nijhum
 GitHub: @nijhum0101 (https://github.com/nijhum0101)
 
