@@ -62,8 +62,9 @@ Add automated tests
 Explore cloud storage and user authentication
 Enhance the user experience and responsive design
 
-**👩‍💻 Author**
+## 👩‍💻 Author
 Nijhum
+
 GitHub: @nijhum0101 (https://github.com/nijhum0101)
 
 Built as a hands-on project to strengthen my frontend development skills and solve a real-world problem.
