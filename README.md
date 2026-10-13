@@ -4,15 +4,21 @@ ApplyTrack is a web application designed to help students and job seekers organi
 It makes tracking application statuses and managing the job search process easier.
 
 **🎯 Project Overview**
+
 *Managing multiple job applications can be challenging. ApplyTrack aims to simplify this process by providing a centralized dashboard where users can keep track of their applications and monitor their progress.*
 
 ## ✨ Features
 
 -Add new job and internship applications
+
 -Track application statuses
+
 -Search and filter applications
+
 -Edit and delete application records
+
 -View application statistics
+
 -Save application data in the browser
 
 **🛠️ Tech Stack**
